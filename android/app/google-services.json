@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "887601279455",
+    "project_id": "fir-flutterchat-ea6de",
+    "storage_bucket": "fir-flutterchat-ea6de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887601279455:android:a22bf276ebc39c971a946a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887601279455-ougbdfannds7vuk155p1mnedqfj5tvtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuP5829yLCjjSgESp4F1XBotEp0LEsCSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887601279455-ougbdfannds7vuk155p1mnedqfj5tvtf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887601279455-ck20hcst8dmavhc5k2t9idjs1kjablk2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887601279455:android:8eb40987e5b4cc3b1a946a",
+        "android_client_info": {
+          "package_name": "com.firebasechat.firebase_flutter_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887601279455-ougbdfannds7vuk155p1mnedqfj5tvtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuP5829yLCjjSgESp4F1XBotEp0LEsCSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887601279455-ougbdfannds7vuk155p1mnedqfj5tvtf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887601279455-ck20hcst8dmavhc5k2t9idjs1kjablk2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
